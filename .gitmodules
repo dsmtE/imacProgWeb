@@ -1,0 +1,3 @@
+[submodule "tds-imac2-js"]
+	path = tds-imac2-js
+	url = https://github.com/Koroeskohr/tds-imac2-js.git
